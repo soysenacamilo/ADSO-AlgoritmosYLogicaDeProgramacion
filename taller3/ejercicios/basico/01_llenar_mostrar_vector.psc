@@ -1,5 +1,4 @@
 Algoritmo 01_llenar_mostrar_vector
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir v, i Como Entero
     Dimension v(8)
     // Guardar los ocho numeros ingresados.
