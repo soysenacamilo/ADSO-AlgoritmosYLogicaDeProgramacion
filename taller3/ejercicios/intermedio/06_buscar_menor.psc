@@ -1,5 +1,4 @@
 Algoritmo 06_buscar_menor
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir v, i, menor, posicion Como Entero
     Dimension v(8)
     Para i <- 1 Hasta 8 Hacer
