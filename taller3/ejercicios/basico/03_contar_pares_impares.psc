@@ -1,5 +1,4 @@
 Algoritmo 03_contar_pares_impares
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir v, i, pares, impares Como Entero
     Dimension v(10)
     pares <- 0
