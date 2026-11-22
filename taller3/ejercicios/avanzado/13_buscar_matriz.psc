@@ -1,5 +1,4 @@
 Algoritmo 13_buscar_matriz
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir matriz, i, j, buscado Como Entero
     Definir encontrado Como Logico
     Dimension matriz(3,3)
