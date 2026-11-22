@@ -1,5 +1,4 @@
 Algoritmo 09_invertir_vector
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir original, invertido, i Como Entero
     Dimension original(6)
     Dimension invertido(6)
