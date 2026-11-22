@@ -469,12 +469,3 @@ FinAlgoritmo
 ## Reflexión final
 
 Al desarrollar este taller comprendí que los arreglos permiten guardar varios datos del mismo tipo utilizando un solo nombre. Aprendí que los vectores tienen una dimensión y las matrices se organizan en filas y columnas. También practiqué ciclos para recorrer los datos y realizar operaciones como sumar, contar, buscar, invertir y comparar. Considero que los arreglos son importantes porque organizan la información, reducen la repetición de instrucciones y facilitan resolver problemas de programación.
-
-## Indicaciones de entrega
-
-1. Completa la fecha de entrega en esta portada.
-2. Abre los archivos `.psc` con PSeInt y ejecuta cada algoritmo.
-3. Comprueba los resultados con las pruebas de escritorio.
-4. Sube esta carpeta con el nombre `taller3` a tu repositorio. No reemplaces la carpeta `taller2`.
-
-**Nota:** el ejercicio de factoriales utiliza valores no negativos y resultados numéricos que pueden crecer rápidamente. Prueba primero con números pequeños. En las matrices se usa `Escribir Sin Saltar` para mostrar los elementos de una fila en la misma línea.
