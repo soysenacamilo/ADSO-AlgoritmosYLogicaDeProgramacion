@@ -1,5 +1,4 @@
 Algoritmo 02_suma_vector
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir v, suma Como Real
     Definir i Como Entero
     Dimension v(6)
