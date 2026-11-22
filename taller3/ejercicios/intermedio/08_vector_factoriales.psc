@@ -1,5 +1,4 @@
 Algoritmo 08_vector_factoriales
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir v, i, j Como Entero
     Definir factoriales, factorial Como Real
     Dimension v(5)
