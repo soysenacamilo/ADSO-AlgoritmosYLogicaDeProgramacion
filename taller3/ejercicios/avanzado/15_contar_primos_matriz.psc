@@ -1,5 +1,4 @@
 Algoritmo 15_contar_primos_matriz
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir matriz, i, j, divisor, totalPrimos Como Entero
     Definir esPrimo Como Logico
     Dimension matriz(4,4)
