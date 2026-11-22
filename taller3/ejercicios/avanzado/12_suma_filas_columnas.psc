@@ -1,5 +1,4 @@
 Algoritmo 12_suma_filas_columnas
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir matriz, i, j, suma Como Entero
     Dimension matriz(4,4)
     Para i <- 1 Hasta 4 Hacer
