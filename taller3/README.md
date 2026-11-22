@@ -4,7 +4,6 @@
 **Ficha:** 3601847  
 **Asignatura:** Lógica de Programación  
 **Fecha:** 18/11/2026 
-**Modalidad:** Individual
 
 ## Objetivo
 Comprender los arreglos y aprender a declarar, llenar, recorrer y manipular vectores y matrices mediante ciclos y condiciones.
