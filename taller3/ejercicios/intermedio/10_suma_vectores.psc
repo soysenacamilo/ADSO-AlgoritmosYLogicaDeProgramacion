@@ -1,5 +1,4 @@
 Algoritmo 10_suma_vectores
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir A, B, C, i Como Entero
     Dimension A(5)
     Dimension B(5)
