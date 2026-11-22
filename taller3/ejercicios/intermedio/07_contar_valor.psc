@@ -1,5 +1,4 @@
 Algoritmo 07_contar_valor
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir v, i, buscado, contador Como Entero
     Dimension v(10)
     contador <- 0
