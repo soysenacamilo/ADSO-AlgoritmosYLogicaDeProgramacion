@@ -1,5 +1,4 @@
 Algoritmo 14_transponer_matriz
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir matriz, transpuesta, i, j Como Entero
     Dimension matriz(3,3)
     Dimension transpuesta(3,3)
