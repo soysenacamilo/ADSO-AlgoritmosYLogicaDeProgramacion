@@ -1,5 +1,4 @@
 Algoritmo 11_llenar_mostrar_matriz
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir matriz, i, j Como Entero
     Dimension matriz(3,3)
     // i representa la fila y j representa la columna.
