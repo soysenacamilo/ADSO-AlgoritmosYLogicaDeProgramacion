@@ -3,7 +3,7 @@
 **Estudiante:** Juan Camilo Jimenez Albor  
 **Ficha:** 3601847  
 **Asignatura:** Lógica de Programación  
-**Fecha:** [Completar fecha de entrega]  
+**Fecha:** 18/11/2026 
 **Modalidad:** Individual
 
 ## Objetivo
