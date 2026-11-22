@@ -1,5 +1,4 @@
 Algoritmo 04_promedio_vector
-    // Algoritmo resuelto y comentado para el Taller 3.
     Definir notas, suma, promedio Como Real
     Definir i Como Entero
     Dimension notas(5)
