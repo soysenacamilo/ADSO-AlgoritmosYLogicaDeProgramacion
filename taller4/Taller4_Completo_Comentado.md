@@ -565,20 +565,4 @@ Para `n = 5`:
 
 ## Reflexión final
 
-Al realizar este taller comprendí que elegir el tipo de dato no es solamente escribir una palabra al declarar una variable, sino decidir cómo se va a representar y utilizar la información dentro de un algoritmo. Por ejemplo, una edad puede manejarse como entero, mientras que una nota o un salario necesita un tipo real para conservar los decimales. También aprendí que los valores lógicos ayudan a evaluar condiciones y que las cadenas permiten unir y manejar textos. Si se elige un tipo incorrecto, se pueden perder datos o producir resultados inesperados. Por eso, antes de programar, es importante revisar qué información se recibe, qué operaciones se realizarán y qué resultado se espera.
-
----
-
-## Referencias
-
-Trejos Buriticá, O. I. (2017). *Lógica de programación* (1.ª ed.). Ediciones de la U. Capítulo 3: Variables, constantes y operadores. ISBN 978-958-762-720-6.
-
-Trejos Buriticá, O. I. (2023). *Lógica de programación* (2.ª ed.). Ediciones de la U. Capítulo 3: Variables, constantes y operadores. ISBN 978-958-792-561-6.
-
-### Fuentes de consulta
-
-- Catálogo bibliográfico de la edición 2017: https://edicionesdelau.com/producto/logica-de-programacion/
-- Catálogo de la segunda edición: https://edicionesdelau.com/producto/logica-de-programacion-2a-edicion/
-- Tabla de contenido y capítulo 3 (material de consulta): https://biblioteca.escuelaintur.pe/assets/uploads/libro_689ded0f99a2f.pdf
-
-**Nota:** las referencias bibliográficas se incluyeron para identificar las ediciones. Verifica cuál edición consultaste físicamente o en PDF y conserva únicamente la que corresponda a tu fuente real.
+Al realizar este taller comprendí que elegir el tipo de dato no es solamente escribir una palabra al declarar una variable, sino decidir cómo se va a representar y utilizar la información dentro de un algoritmo. Por ejemplo, una edad puede manejarse como entero, mientras que una nota o un salario necesita un tipo real para conservar los decimales. También aprendí que los valores lógicos ayudan a evaluar condiciones y que las cadenas permiten unir y manejar textos. Si se elige un tipo incorrecto, se pueden perder datos o producir resultados inesperados. Por eso, antes de programar.
