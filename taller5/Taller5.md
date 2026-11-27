@@ -299,7 +299,7 @@ Al realizar las pruebas de escritorio aprendí que es necesario seguir las instr
 
 ## Referencia
 
-Trejos Buriticá, O. I. *Lógica de programación*. Referencia indicada en el material del taller.
+Trejos Buriticá, O. I.
 
 Taller 5: *Pruebas de Escritorio en Lógica de Programación*.  
 https://github.com/diehercasvan/Programming_logic/blob/main/Algorithms/Workshop/Taller%205%20Pruebas%20de%20Escritorio%20en%20L%C3%B3gica%20de%20Programaci%C3%B3n.md
