@@ -16,7 +16,3 @@ Los números al inicio de los nombres permiten que GitHub muestre el contenido e
 5. `04_avanzado/`: ejercicios 8 al 10.
 
 Cada ejercicio está en un archivo Markdown independiente e incluye justificación de variables, pseudocódigo comentado, prueba de escritorio y resultado.
-
-## Nota
-
-Los pseudocódigos siguen la notación académica de la guía. El comportamiento de operaciones como la división entera y la conversión ASCII puede variar según el lenguaje en que se implementen.
