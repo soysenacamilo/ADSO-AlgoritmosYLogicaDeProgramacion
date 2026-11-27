@@ -1,6 +1,6 @@
 # Taller 5: Pruebas de Escritorio
 
-Contenido organizado en archivos independientes para subir al repositorio.
+Contenido organizado en archivos independientes
 
 ```text
 taller5/
