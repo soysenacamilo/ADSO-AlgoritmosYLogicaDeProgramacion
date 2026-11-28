@@ -1,10 +1,9 @@
 # TALLER 6: TABLAS DE VERDAD Y OPERADORES LÓGICOS EN LÓGICA DE PROGRAMACIÓN
 
 **Asignatura:** Lógica de Programación  
-**Estudiante:** [Escribe tu nombre completo]  
-**Instructor:** [Escribe el nombre del instructor]  
-**Institución:** SENA  
-**Fecha:** [Día / mes / año]
+**Estudiante:** [Juan Camilo Jimenez Albor]  
+**Ficha:** [3601847]  
+**Fecha:** [27/11/2026]
 
 ---
 
