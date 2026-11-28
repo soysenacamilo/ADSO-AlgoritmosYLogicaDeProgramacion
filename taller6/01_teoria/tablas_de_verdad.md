@@ -8,4 +8,4 @@ Los operadores lógicos básicos son **Y**, **O** y **NO**. El operador **Y** (c
 
 Cuando se combinan varios operadores, es importante respetar los paréntesis para identificar qué partes de la expresión se evalúan juntas. Por ejemplo, en `(A Y B) O C`, primero se determina el resultado de `A Y B` y después se aplica `O C`. Así, las tablas de verdad ayudan a visualizar el comportamiento de las expresiones, comprobar las decisiones de un algoritmo y construir programas más claros y confiables.
 
-**Referencia de base:** Trejos Buriticá, Omar Iván, *Lógica de programación*, capítulo 4.4.3
+**Referencia:** Trejos Buriticá, Omar Iván, *Lógica de programación*, capítulo 4.4.3
